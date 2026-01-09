@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="container">
+            <!-- Home Section -->
+            <div class="home">
+                <h3>HOME</h3>
+                <!-- Scoreboard home -->
+                <div class="scoreboard-home">
+                    <h2 id="home-score">0</h2>
+                </div>
+                <!-- End of scoreboard home -->
+                 <!-- Buttons section -->
+                <div class = "buttons">
+                    <button onclick="plusOneHome()">+1</button>
+                    <button onclick = "plusTwoHome()">+2</button>
+                    <button onclick="plusThreeHome()">+3</button>
+                    <button onclick="resetHome()">Reset</button>
+                </div>
+                <!-- End of Buttons Section -->
+            </div>
+        <!-- End of Home Section -->
+
+
+
+            <div class="guest">
+                <h3>GUEST</h3>
+                 <!-- Scoreboard GUEST -->
+                <div class="scoreboard-guest">
+                    <h2 id="guest-score">0</h2>
+                </div>
+                <!-- End of scoreboard GUEST-->
+                 <!-- Buttons section -->
+                <div class = "buttons">
+                    <button onclick="plusOneGuest()">+1</button>
+                    <button onclick = "plusTwoGuest()">+2</button>
+                    <button onclick="plusThreeGuest()">+3</button>
+                    <button onclick="resetGuest()">Reset</button>
+                </div>
+                <!-- End of Buttons Section -->
+            </div>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>

@@ -1,0 +1,86 @@
+/* Reset initial settings */
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* Font */
+@font-face {
+    font-family: Cursed Timer ULiL;
+    src: url(fonts/CursedTimer.ttf)
+
+}
+
+
+
+
+/* Body */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: 1B244A;
+    min-height: 100vh;
+    width: 100%;
+}
+
+/* Container section */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    gap: 5rem;
+}
+
+/* Home and guest section */
+.home, .guest {
+    display: flex;
+    width: 18rem;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* Headings */
+h3 {
+    font-family: Verdana, sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+}
+
+h2{
+    /* font-family: Cursed Timer ULiL; results in gap below font*/
+    font-family: sans-serif;
+    font-size: 5rem;
+    color: F94F6D;
+    line-height: 5rem;
+}
+
+/* scoreboards */
+.scoreboard-home, .scoreboard-guest {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9.6rem;
+    background-color: 080001;
+    height: 6rem;
+    border-radius: 1rem;
+}
+
+button {
+     -webkit-appearance: none; /* Chrome/Safari */
+    -moz-appearance: none;    /* Firefox */
+    appearance: none;          /* standard */
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 0.9rem;
+    color: #9aabd8;
+    background-color: transparent;
+    border: .1rem solid #9aabd8;
+    border-radius: 0.2rem;
+    padding: .5rem;
+}
+
