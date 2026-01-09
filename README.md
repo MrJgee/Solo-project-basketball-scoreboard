@@ -4,8 +4,8 @@ Scrimba solo project basketball scoreboard!
 ## Live Site and Preview
 
 Here is a preview of the live site:
-![image-description](insert-URL-image)
-View the [live site here!](insert link) 
+![Image Preview of the site](/Live-Preview.png)
+View the [live site here!](https://mrjgee.github.io/Solo-project-basketball-scoreboard/) 
 
 ## My process
 
@@ -22,5 +22,5 @@ View the [live site here!](insert link)
 * Vanilla Javascript
 
 ### Resources
-* [Free online course](insert link)
+* [Free online course](https://www.youtube.com/watch?v=LzMnsfqjzkA)
 * [FigmaFile](https://www.figma.com/design/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?node-id=0-1&p=f&t=E0Ibk7L0kOTnBrLM-0)
