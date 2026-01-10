@@ -13,6 +13,7 @@ View the [live site here!](https://mrjgee.github.io/Solo-project-basketball-scor
 * HTML5
 * CSS3
 * Javascript
+* VScode
 
 ### Built with
 * Desktop first workflow
