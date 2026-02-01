@@ -4,6 +4,7 @@ Scrimba solo project basketball scoreboard!
 ## Live Site and Preview
 
 Here is a preview of the live site:
+
 ![Image Preview of the site](/Live-Preview.png)
 View the [live site here!](https://mrjgee.github.io/Solo-project-basketball-scoreboard/) 
 
