@@ -10,8 +10,8 @@ View the [live site here!](https://mrjgee.github.io/Solo-project-basketball-scor
 ## My process
 
 ### Languages and Tools
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Javascript
 * VScode
 
